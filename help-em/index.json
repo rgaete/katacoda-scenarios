@@ -23,8 +23,16 @@
       "text": "finish.md"
     }
   },
+  "asyncFiles": ["index.html"],
   "environment": {
-    "uilayout": "editor-terminal"
+      "hidefinish": true,
+      "showdashboard": true,
+      "delayToSaveFileAfterStopTypingMilliseconds": 2000,
+      "dashboards": [
+        {"name": "Web Application", "port": 3000}
+      ],
+      "uilayout": "editor-iframe-split",
+      "uisettings": "html"
   },
   "backend": {
     "imageid": "javascript"
