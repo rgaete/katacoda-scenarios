@@ -6,7 +6,7 @@ Soy el nuevo **Desarrollador FullStack Trainee** de Walmart Chile, me pidieron h
 ![Katacoda Logo 1](./assets/ejemplo.png)
 </pre>
 
-![Katacoda Logo 1](./assets/ejemplo.png)
+![Katacoda Logo 2](./assets/ejemplo.png)
 
 
 No estoy seguro de si lo que hice en pseudocodigo esté bien. Me **enseñarías** a programarlo?
