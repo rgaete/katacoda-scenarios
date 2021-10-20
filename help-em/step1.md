@@ -1,5 +1,5 @@
 
-![Katacoda Logo](./assets/ejemplo.png)
+![Katacoda Logo](../help-em-java/assets/ejemplo.png)
 
 
 # Ejercicio 1
