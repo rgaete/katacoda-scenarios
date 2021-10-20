@@ -21,6 +21,6 @@
     "uilayout": "vscode-terminal-split"
   },
   "backend": {
-    "imageid": "java"
+    "imageid": "openjdk:15"
   }
 }
