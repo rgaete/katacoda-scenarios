@@ -1,8 +1,11 @@
+
+![Katacoda Logo](./assets/ejemplo.png)
+
+
 # Ejercicio 1
 
 Soy el nuevo **Desarrollador FullStack Trainee** de Walmart Chile, me pidieron hacer un algoritmo sencillo que reciba una palabra y que retorne la posición del primer caracter que no se repite. En caso de no encontrar niguno, debo retornar -1.
 
-![Katacoda Logo](./assets/ejemplo.png)
 
 No estoy seguro de si lo que hice en pseudocodigo esté bien. Me **enseñarías** a programarlo?
 
