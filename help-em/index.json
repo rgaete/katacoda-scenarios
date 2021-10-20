@@ -1,12 +1,12 @@
 {
-  "title": "Help EM",
-  "description": "Des",
-  "difficulty": "Beginner",
-  "time": "10",
+  "title": "Ayuda",
+  "description": "",
+  "difficulty": "Principiante",
+  "time": "30 minutos",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Paso 1",
         "text": "step1.md"
       }
     ],
