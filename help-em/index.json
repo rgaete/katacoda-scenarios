@@ -11,6 +11,7 @@
       }
     ],
     "intro": {
+      "title": "Bienvenido",
       "text": "intro.md",
       "code": "env-init.sh",
       "credits": ""
