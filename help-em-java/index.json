@@ -1,5 +1,5 @@
 {
-  "title": "Ayuda",
+  "title": "Ayuda Java",
   "description": "",
   "difficulty": "Principiante",
   "time": "30 minutos",
@@ -31,6 +31,6 @@
       "uilayout": "vscode-terminal-split"
   },
   "backend": {
-    "imageid": "javascript"
+    "imageid": "openjdk:15"
   }
 }
